@@ -22,7 +22,7 @@
 ----
 ### Test Vidoe
 
-<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="50%">
+<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="49%">
         <source id="mp4" src="/video.mp4" type="video/mp4">
 </video>
 
@@ -31,10 +31,11 @@
         </video>  
 
 ----
+<div align=center>
 ![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
 ![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
 ![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
-
+</div>
 
 ### Publications
 
