@@ -4,15 +4,15 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Sun Haoliang</h1>
+      <p><b>博士研究生</b></p>
+      <p><b>中国科学院大学</b></p>
+      <p><b>邮箱：sunhloutlook.com</b></p>
+      <p><b>地址：上海·静安</b></p>
       <p><a href="/indexen">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/PIC001.jpg" width="100%">
+      <img src="/PIC001.jpg" width="40%">
     </td>
   </tr>
 </table>
