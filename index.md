@@ -8,6 +8,9 @@
       <p><b>邮箱：sunhloutlook.com</b></p>
       <p><b>地址：上海·静安</b></p>
       <p><a href="/video.mp4">English Version</a></p>
+      <p><a href="https://github.com/Sun365">
+       Home Page
+        </a></p> 
     </td>
     <td width="50%">
       <div class="image rounded" style="margin-bottom: 1.5em;"> <img  src="/PIC001.jpg" width="150%"></div>
