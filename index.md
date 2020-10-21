@@ -22,9 +22,10 @@
 ----
 ### Test Vidoe
 
-<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="50%">
+<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="40%">
         <source id="mp4" src="/video.mp4" type="video/mp4"> <source id="mp4" src="/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
 </video>
+
 <video id="video" controls="" preload="none" poster="/repository-open-graph-template.png" width="50%">
         <source id="mp4" src="/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
         </video>  
