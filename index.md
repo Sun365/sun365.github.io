@@ -1,5 +1,7 @@
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoT
+
 ## Welcome to GitHub Pages
+
+<img src="https://github.com/Sun365/sun365.github.io/blob/main/PIC001.jpg" width="150">MoT
 
 You can use the [editor on GitHub](https://github.com/Sun365/sun365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
