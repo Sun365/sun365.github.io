@@ -7,7 +7,7 @@
       <p><b>中国科学院大学</b></p>
       <p><b>邮箱：sunhloutlook.com</b></p>
       <p><b>地址：上海·静安</b></p>
-      <p><a href="/indexen">English Version</a></p>
+      <p><a href="/video.mp4">English Version</a></p>
     </td>
     <td width="50%">
       <div class="image rounded" style="margin-bottom: 1.5em;"> <img  src="/PIC001.jpg" width="150%"></div>
@@ -16,9 +16,7 @@
 </table>
 </div>
 
-You can use the [editor on GitHub](https://github.com/Sun365/sun365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Publications
 
 [1]Sun H, Zhang H, Jing X, et al. One-step synthesis of centimeter-size alpha-MoO3 with single crystallinity[J]. Applied Surface Science: 2019, 476:789-795.
@@ -53,6 +51,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [11]Wang, Y.; Feng, S.L.; Shen, K.C.; Sun, H.L.; Yang, Y.G.; Ji, G.W.; Li, J.; Jiang, Z.; Song, F. Manifestation of the structural stability of Mg-doped Zn4Sb3 via atomic fine structure investigation. Solid State Communications. 2017;261:26-31.
 
+
+You can use the [editor on GitHub](https://github.com/Sun365/sun365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
