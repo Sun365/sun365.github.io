@@ -3,7 +3,7 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Sun Haoliang</h1>
       <p><b>博士研究生</b></p>
       <p><b>中国科学院大学</b></p>
@@ -11,7 +11,7 @@
       <p><b>地址：上海·静安</b></p>
       <p><a href="/indexen">English Version</a></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/PIC001.jpg" width="150%">
     </td>
   </tr>
