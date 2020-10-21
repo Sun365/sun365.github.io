@@ -1,5 +1,8 @@
 
-
-<video controls="" autoplay="" name="media">
-    <source src="https://www.w3school.com.cn/example/html5/mov_bbb.mp4" type="video/mp4">
-</video>
+<iframe 
+    height=450 
+    width=800 
+    src='http://player.youku.com/embed/XMzMxMjE0MjY4NA==' 
+    frameborder=0 
+    'allowfullscreen'>
+</iframe>
