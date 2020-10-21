@@ -12,7 +12,7 @@
       <p><a href="/indexen">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/PIC001.jpg" width="40%">
+      <img src="/PIC001.jpg" width="150%">
     </td>
   </tr>
 </table>
