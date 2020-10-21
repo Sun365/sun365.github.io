@@ -13,14 +13,13 @@
         </a></p> 
     </td>
     <td width="50%">
-      <div class="image rounded" style="margin-bottom: 1.5em;"> 
-      <img  src="/PIC001.jpg" width="150%"></div>
+      <div class="image rounded"><img src="/PIC001.jpg" width="150%"></div>
     </td>
   </tr>
 </table>
 </div>
 
-<div align="center">
+
 <video id="video" controls="" preload="none" poster="/PIC002.jpg" width="50%">
         <source id="mp4" src="/video.mp4" type="video/mp4">
         </video>
@@ -28,6 +27,8 @@
 <video id="video" controls="" preload="none" poster="/repository-open-graph-template.png"  width="50%">
         <source id="mp4" src="/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
         </video>    
+
+<div align="center"></div>
 
 ### Publications
 
