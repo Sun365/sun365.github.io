@@ -19,7 +19,7 @@
 </table>
 </div>
 
-<video id="video" controls="" preload="none" poster="/repository-open-graph-template.png">
+<video id="video" controls="" preload="none" poster="/PIC002.jpg">
       <source id="mp4" src="/video.mp4" type="video/mp4">
       </video>
 
