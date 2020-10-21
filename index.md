@@ -13,7 +13,8 @@
         </a></p> 
     </td>
     <td width="50%">
-      <div class="image rounded" style="margin-bottom: 1.5em;"> <img  src="/PIC001.jpg" width="150%"></div>
+      <div class="image rounded" style="margin-bottom: 1.5em;"> 
+      <img  src="/PIC001.jpg" width="150%"></div>
     </td>
   </tr>
 </table>
