@@ -7,7 +7,7 @@
       <p><b>中国科学院大学</b></p>
       <p><b>邮箱：sunhloutlook.com</b></p>
       <p><b>地址：上海·静安</b></p>
-      <p><a href="/video.mp4">English Version</a></p>
+      <p><a href="https://github.com/Sun365/sun365.github.io">Repository</a></p>
       <p><a href="https://github.com/Sun365">
        Home Page
         </a></p> 
