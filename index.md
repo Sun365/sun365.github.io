@@ -27,7 +27,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoT
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
