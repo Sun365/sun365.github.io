@@ -123,4 +123,21 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 </body>
 
-
+<body class="landing">
+	<!-- One -->
+	<section id="one" class="wrapper style1">
+		<div class="container 75%">
+			<div class="row 200%">
+				<div class="6u 12u$(medium)">
+					<header class="major">
+						<h2>Thomas Kipf</h2>
+						<p>
+							<div class="image rounded" style="margin-bottom: 1.5em;"><img src="/PIC003.png" width="200" alt="" /></div>
+						</p>
+						<p>Research Scientist</p>
+						<p>Google Research</p>
+					</header>
+				</div>				
+			</div>
+		</div>
+</body>
