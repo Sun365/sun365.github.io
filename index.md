@@ -41,10 +41,10 @@
 
 ### Publications
 
-[1]Sun, Haoliang,Zhang, Huan,Jing, Xinxin, et al.One-step synthesis of centimeter-size alpha-MoO_3 with single crystallinity[J].Applied Surface Science: A Journal Devoted to the Properties of Interfaces in Relation to the Synthesis and Behaviour of Materials,2019,476(May 15):789-795.
-<br>[2]Sun, Haoliang,Liang, Zhaofeng,Shen, Kongchao, et al.Fabrication of NiSe2 by direct selenylation of a nickel surface[J].Applied Surface Science: A Journal Devoted to the Properties of Interfaces in Relation to the Synthesis and Behaviour of Materials,2018,428(Jan.15):623-629.
+[1]Sun, Haoliang,Zhang, Huan,Jing, Xinxin, et al.One-step synthesis of centimeter-size alpha-MoO_3 with single crystallinity[J].Applied Surface Science,2019,476(May 15):789-795.
+<br>[2]Sun, Haoliang,Liang, Zhaofeng,Shen, Kongchao, et al.Fabrication of NiSe2 by direct selenylation of a nickel surface[J].Applied Surface Science,2018,428(Jan.15):623-629.
 
-[3]Sun, Haoliang,Liang, Zhaofeng,Shen, Kongchao, et al.Photoelectron spectroscopy study of the electronic structures at CoPc/Bi(111) interface[J].Surface Science: A Journal Devoted to the Physics and Chemistry of Interfaces,2017,661(Jul.):34-41.[J]. Surface Science: 2017, 661:34-41.<br>[4]Zhang H, Sun H, Shen K, et al. Recent Progress with In Situ Characterization of Interfacial Structures under a Solid–Gas Atmosphere by HP-STM and AP-XPS. Materials 2019;12.
+[3]Sun, Haoliang,Liang, Zhaofeng,Shen, Kongchao, et al.Photoelectron spectroscopy study of the electronic structures at CoPc/Bi(111) interface[J].Surface Science,2017,661(Jul.):34-41.[J]. Surface Science: 2017, 661:34-41.<br>[4]Zhang H, Sun H, Shen K, et al. Recent Progress with In Situ Characterization of Interfacial Structures under a Solid–Gas Atmosphere by HP-STM and AP-XPS. Materials 2019;12.
 
 
 
