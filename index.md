@@ -124,7 +124,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 	<h1>
 		My First Heading - html test
 	</h1>
-	<body bgcolor="#F0F8FF" text="red">
+	<body bgcolor="#FF00FF" text="red">
 		<p>
 			My first paragraph.
 		</p>
@@ -166,7 +166,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 		</style>
 		<script>
 			function change() {
-			document.getElementsByTagName('h1')[0].style.color = '#ff0000';
+			document.getElementsByTagName('h1')[0].style.color = '#FF00FF';
 			}
 		</script>
 	</head>
