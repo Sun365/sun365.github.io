@@ -147,6 +147,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 				</div>				
 			</div>
 		</div>
+	</section>
 </body>
 
 <html>
