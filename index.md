@@ -121,14 +121,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <body>
-
-<h1>My First Heading - html test</h1>
-
-<body bgcolor="#F0F8FF" text="red">
-
-<p>My first paragraph.</p>
-
+	<h1>
+		My First Heading - html test
+	</h1>
+	<body bgcolor="#F0F8FF" text="red">
+		<p>
+			My first paragraph.
+		</p>
+	</body>
 </body>
+	
 
 <body class="landing">
 	<!-- One -->
