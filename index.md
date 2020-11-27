@@ -124,7 +124,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 	<h1>
 		My First Heading - html test
 	</h1>
-	<body bgcolor="#FF00FF" text="red">
+	<body bgcolor="#ADEAEA" text="#FF00FF">
 		<p>
 			My first paragraph.
 		</p>
