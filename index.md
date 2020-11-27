@@ -159,7 +159,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 		</title>
 		<style>
 			h1 {
-			color: #333333;
+			color: #FF0000;
 			font-size: 48px;
 			text-shadow: 3px 3px 3px #666666;
 			}
