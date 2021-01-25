@@ -3,7 +3,7 @@
   <tr>
     <td width="50%">
       <h1>Haoliang Sun</h1>
-      <p><b>博士研究生</b></p>
+      <p><b>博士研究生/PhD</b></p>
       <p><b>中国科学院大学</b></p>
       <p><b>邮箱：sunhloutlook.com</b></p>
       <p><b>地址：上海·静安</b></p>
