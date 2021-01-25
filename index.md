@@ -121,9 +121,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <body>
-	<h1>
+	<h2>
 		My First Heading - html test
-	</h1>
+	</h2>
 	<body bgcolor="#F8F8FF" text="#FF00FF">
 		<p>
 			My first paragraph.
@@ -158,7 +158,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 			Hello
 		</title>
 		<style>
-			h1 {
+			h2 {
 			color: #FF0000;
 			font-size: 48px;
 			text-shadow: 3px 3px 3px #666666;
