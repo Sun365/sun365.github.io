@@ -20,26 +20,6 @@
 </div>
 
 
-----
-
-# Test Vidoe
-
-<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="49%">
-        <source id="mp4" src="/video.mp4" type="video/mp4">
-</video>
-
-<video id="video" controls="" preload="none" poster="/repository-open-graph-template.png" width="50%">
-        <source id="mp4" src="/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-        </video>  
-
-----
-
-<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"></div>
-
-
-![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
-
----
 
 
 ---
@@ -66,12 +46,7 @@ Shanghai, China, University of Chinese Academy of Sciences, Two-dimensional mate
 Wuhan, China, Wuhan University, Physics major.
 
 ---
-# Service
 
-## 2014~now
-Communist Youth Volunteer
-
----
 
 # Publications
 
@@ -109,6 +84,14 @@ Communist Youth Volunteer
 
 ---
 
+# Service
+
+## 2014~now
+
+Communist Youth Volunteer
+
+---
+
 ### Editor on GitHub 
 You can use the [editor on GitHub](https://github.com/Sun365/sun365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -120,6 +103,27 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+----
+
+# Test Vidoe
+
+<video id="video" controls="" preload="none" poster="/PIC002.jpg" width="49%">
+        <source id="mp4" src="/video.mp4" type="video/mp4">
+</video>
+
+<video id="video" controls="" preload="none" poster="/repository-open-graph-template.png" width="50%">
+        <source id="mp4" src="/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+        </video>  
+
+----
+
+<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"></div>
+
+
+![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
+
+---
 
 # Header 1
 ## Header 2
