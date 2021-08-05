@@ -26,23 +26,19 @@
 # Education & Academic Experience
 
 ### 2021~now 
-*Postdoctoral*
-
+**Postdoctoral**
 Shenzheng, China, Peng Cheng Laboratory (PCL), Brainlike neural computing system based on photoelectric memristor.
 
 ### 2019~2021 
-*Assistant Engineer*
-
+**Assistant Engineer**
 Shanghai, China, Shanghai National Broadband Engineering Technology Research Center, Artificial intelligence and big data.
 
 ### 2014~2019 
-*PhD*
-
+**PhD**
 Shanghai, China, University of Chinese Academy of Sciences, Two-dimensional materials and their semiconductor devices.
 
 ### 2010~2014 
-*Bachelor*
-
+**Bachelor**
 Wuhan, China, Wuhan University, Physics major.
 
 ---
