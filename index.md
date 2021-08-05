@@ -44,7 +44,8 @@
 
 ### Academic Experience
 
-2021~now, ''Postdoctoral'', Shenzheng, China, Peng Cheng Laboratory (PCL),  Research on brainlike neural computing system based on photoelectric memristor.
+#### 2021~now
+*Postdoctoral*, Shenzheng, China, Peng Cheng Laboratory (PCL),  Research on brainlike neural computing system based on photoelectric memristor.
 
 ### Service
 
