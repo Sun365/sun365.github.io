@@ -21,7 +21,7 @@
 
 
 ----
-### Test Vidoe
+# Test Vidoe
 
 <video id="video" controls="" preload="none" poster="/PIC002.jpg" width="49%">
         <source id="mp4" src="/video.mp4" type="video/mp4">
@@ -40,16 +40,31 @@
 
 ---
 
-### Education
 
-### Academic Experience
+---
+# Education & Academic Experience
 
-#### 2021~now
-*Postdoctoral*, Shenzheng, China, Peng Cheng Laboratory (PCL),  Research on brainlike neural computing system based on photoelectric memristor.
+## 2021~now *Postdoctoral*
+Shenzheng, China, Peng Cheng Laboratory (PCL), Brainlike neural computing system based on photoelectric memristor.
 
-### Service
+## 2019~2021 *Assistant Engineer*
+Shanghai, China, Shanghai National Broadband Engineering Technology Research Center, Artificial intelligence and big data.
 
-### Publications
+## 2014~2019 *PhD*
+Shanghai, China, University of Chinese Academy of Sciences, Two-dimensional materials and their semiconductor devices.
+
+## 2010~2014 *Bachelor*
+Wuhan, China, Wuhan University, Physics major.
+
+---
+# Service
+
+## 2014~now
+Communist Youth Volunteer
+
+---
+
+# Publications
 
 [1]Sun, Haoliang,Zhang, Huan,Jing, Xinxin, et al.One-step synthesis of centimeter-size alpha-MoO_3 with single crystallinity[J].Applied Surface Science,2019,476(May 15):789-795.
 <br>[2]Sun, Haoliang,Liang, Zhaofeng,Shen, Kongchao, et al.Fabrication of NiSe2 by direct selenylation of a nickel surface[J].Applied Surface Science,2018,428(Jan.15):623-629.
@@ -82,6 +97,8 @@
 
 
 [11]Wang, Y.; Feng, S.L.; Shen, K.C.; Sun, H.L.; Yang, Y.G.; Ji, G.W.; Li, J.; Jiang, Z.; Song, F. Manifestation of the structural stability of Mg-doped Zn4Sb3 via atomic fine structure investigation. Solid State Communications. 2017;261:26-31.
+
+---
 
 ### Editor on GitHub 
 You can use the [editor on GitHub](https://github.com/Sun365/sun365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
