@@ -88,7 +88,7 @@ Wuhan, China, Wuhan University, Physics major.
 
 ### 2014~now
 
-Communist Youth Volunteer
+Shanghai Youth Volunteer
 
 ---
 
